@@ -1,4 +1,4 @@
-# U-Net-Autonomous-Driving
+# RoadUNet
 A U-Net implementation in PyTorch, accelerated with CUDA, for segmenting autonomous driving images.
 
 This work was used to present at the International Conference of Undergraduate Research 2024.
